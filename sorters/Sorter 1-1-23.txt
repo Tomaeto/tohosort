@@ -1,0 +1,160 @@
+Shameimaru Aya/1
+Shiki Eiki/2
+Alice Margatroid/3
+Hakurei Reimu/4
+Ibaraki Kasen/5
+Toyosatomimi no Miko/6
+Moriya Suwako/7
+Matara Okina/8
+Aki Minoriko/9
+Nagae Iku/10
+Kawashiro Nitori/11
+Kaenbyou Rin/12
+Hong Meiling/13
+Ibuki Suika/14
+Haniyasushin Keiki/15
+Murasa Minamitsu/16
+Remilia Scarlet/17
+Tatara Kogasa/18
+Hijiri Byakuren/19
+Fujiwara no Mokou/20
+Tenkyuu Chimata/21
+Houjuu Nue/22
+Kudamaki Tsukasa/23
+Kagiyama Hina/24
+Miyako Yoshika/25
+Kamishirasawa Keine/26
+Saigyouji Yuyuko/27
+Komeiji Satori/28
+Motoori Kosuzu/29
+Usami Renko/30
+Morichika Rinnosuke/31
+Lily White/32
+Komeiji Koishi/33
+Kochiya Sanae/34
+Okazaki Yumemi/35
+Onozuka Komachi/36
+Letty Whiterock/37
+Futatsuiwa Mamizou/38
+Kumoi Ichirin/39
+Konpaku Youmu/40
+Komano Aunn/41
+Yasaka Kanako/42
+Rumia/43
+Niwatari Kutaka/44
+Inubashiri Momiji/45
+Yorigami Joon/46
+Izayoi Sakuya/47
+Iizunamaru Megumu/48
+Hieda no Akyuu/49
+Hinanawi Tenshi/50
+Goutokuji Mike/51
+Horikawa Raiko/52
+Mima/53
+Hoshiguma Yuugi/54
+Mononobe no Futo/55
+Patchouli Knowledge/56
+Reiuji Utsuho/57
+Toutetsu Yuuma/58
+Yagokoro Eirin/59
+Soga no Tojiko/60
+Kaku Seiga/61
+Merlin Prismriver/62
+Wriggle Nightbug/63
+Inaba Tewi/64
+Chen/65
+Junko/66
+Sunny Milk/67
+Wakasagihime/68
+Lyrica Prismriver/69
+Mystia Lorelei/70
+Yakumo Ran/71
+Kasodani Kyouko/72
+Kirisame Marisa/73
+Maribel Hearn/74
+Nazrin/75
+Reisn Udongein Inaba/76
+Flandre Scarlet/77
+Doremy Sweet/78
+Kazami Yuuka/79
+Sekibanki/80
+Asakura Rikako/81
+Hecatia Lapislazuli/82
+Yamashiro Takane/83
+Kurokoma Saki/84
+Okunoda Miyoi/85
+Rika/86
+Kurodani Yamame/87
+Tsukumo Benben/88
+Luna Child/89
+Yakumo Yukari/90
+Joutouguu Mayumi/91
+Clownpiece/92
+Himemushi Momoyo/93
+Seiran/94
+Lunasa Prismriver/95
+Imaizumi Kagerou/96
+Shinki/97
+Tsukumo Yatsuhashi/98
+Nishida Satono/99
+Teireida Mai/100
+Yorigami Shion/101
+Kijin Seija/102
+Ringo/103
+Kisume/104
+Yatadera Narumi/105
+Hata no Kokoro/106
+Koakuma/107
+Toramaru Shou/108
+Kicchou Yachie/109
+Mizuhashi Parsee/110
+Genji/111
+Tokiko/112
+Kitashirakawa Chiyuri/113
+Eternity Larva/114
+Cirno/115
+Tamatsukuri Misumaru/116
+Medicine Melancholy/117
+Aki Shizuha/118
+Kishin Sagume/119
+Sukuna Shinmyoumaru/120
+Houraisan Kaguya/121
+Star Sapphire/122
+Ushizaki Urumi/123
+Yumeko/124
+Komakusa Sannyo/125
+Evil Eye Sigma/126
+Unzan/127
+Daiyousei/128
+Ruukoto/129
+Yuugen Magan/130
+Yuki/131
+Sariel/132
+Orange/133
+Kotohime/134
+Sara/135
+Louise/136
+Elly/137
+Himekaidou Hatate/138
+Kana Anaberal/139
+Mugetsu/140
+Fortune Teller/141
+Gengetsu/142
+Ellen/143
+Shingyoku (Female)/144
+Kurumi/145
+Ebisu Eika/146
+Shingyoku (Male)/147
+Hisoutensoku/148
+Mimi-chan/149
+Meira/150
+Kikuri/151
+Elis/152
+Sakata Nemuno/153
+Mai/154
+Usami Sumireko/155
+Great Catfish/156
+Konngara/157
+Watatsuki no Toyohime/158
+Watatsuki no Yorihime/159
+Reisen (Manga)/160
