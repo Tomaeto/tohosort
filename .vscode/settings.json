@@ -36,6 +36,7 @@
   "files.associations": {
     "iostream": "cpp",
     "*.tcc": "cpp",
-    "fstream": "cpp"
+    "fstream": "cpp",
+    "string": "cpp"
   }
 }

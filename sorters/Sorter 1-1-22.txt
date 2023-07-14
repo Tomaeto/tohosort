@@ -1,160 +1,160 @@
-Shameimaru Aya/1
-Alice Margatroid/2
-Ibaraki Kasen/3
-Shiki Eiki/4
-Toyosatomimi no Miko/5
-Kawashiro Nitori/6
-Hakurei Reimu/7
-Motoori Kosuzu/8
-Aki Minoriko/9
-Onozuka Komachi/10
-Ibuki Suika/11
-Hinanawi Tenshi/12
-Remilia Scarlet/13
-Nagae Iku/14
-Horikawa Raiko/15
-Hieda no Akyuu/16
-Inubashiri Momiji/17
-Tatara Kogasa/18
-Murasa Minamitsu/19
-Komeiji Satori/20
-Matara Okina/21
-Fujiwara no Mokou/22
-Tenkyuu Chimata/23
-Yorigami Joon/24
-Miyako Yoshika/25
-Kagiyama Hima/26
-Hong Meiling/27
-Sunny Milk/28
-Haniyasushin Keiki/29
-Nazrin/30
-Futatsuiwa Mamizou/31
-Komano Aunn/32
-Kamishirasawa Keine/33
-Moriya Suwako/34
-Patchouli Knowledge/35
-Saigyouji Yuyuko/36
-Merlin Prismriver/37
-Kasodani Kyouko/38
-Yakumo Yukari/39
-Okazaki Yumemi/40
-Sekibanki/41
-Letty Whiterock/42
-Yakumo Ran/43
-Niwatari Kutaka/44
-Yorigami Shion/45
-Mystia Lorelei/46
-Kumoi Ichirin/47
-Kurokoma Saki/48
-Morichika Rinnosuke/49
-Kochiya Sanae/50
-Luna Child/51
-Izayoi Sakuya/52
-Yamashiro Takane/53
-Lyrica Prismriver/54
-Kicchou Yachie/55
-Yoramaru Shou/56
-Goutokuji Mike/57
-Kirisame Marisa/58
-Usami Renko/59
-Toutestu Yuuma/60
-Kurodani Yamame/61
-Reisen Udongein Inaba/62
-Joutouguu Mayumi/63
-Iizunamaru Megumu/64
-Hata no Kokoro/65
-Kazami Yuuka/66
-Hoshiguma Yuugi/67
-Lily White/68
-Flandre Scarlet/69
-Tsukumo Benben/70
-Tsukumo Yatsuhashi/71
-Hijiri Byakuren/72
-Lunasa Prismriver/73
-Aki Shizuha/74
-Rumia/75
-Daiyousei/76
-Yasaka Kanako/77
-Hecatia Lapislazuli/78
-Star Sapphire/79
-Houjuu Nue/80
-Himekaidou Hatate/81
-Himemushi Momoyo/82
-Komeiji Koishi/83
-Inaba Tewi/84
-Wriggle Nightbug/85
-Mononobe no Futo/86
-Konpaku Youmu/87
-Asakura Rikako/88
-Kaenbyou Rin/89
-Soga no Tojiko/90
-Maribel Hearn/91
-Wakasagihime/92
-Junko/93
-Shinki/94
-Yatadera Narumi/95
-Sukuna Shinmyoumaru/96
-Tamatsukuri Misumaru/97
-Clownpiece/98
-Tagokoro Eirin/99
-Imaizumi Kagerou/100
-Okunoda Miyoi/101
-Kisume/102
-Kotohime/103
-Doremy Sweet/104
-Chen/105
-Koakuma/106
-Mima/107
-Reiuji Utsuho/108
-Eternity Larva/109
-Cirno/110
-Genji/111
-Medicine Melancholy/112
-Rika/113
-Meira/114
-Unzan/115
-Ruukoto/116
-Kitashirakawa Chiyura/117
-Kudamaki Tsukasa/118
-Houraisan Kaguya/119
-Nishida Satono/120
-Ebisu Eika/121
-Kaku Seiga/122
-Komakusa Sannyo/123
-Ringo/124
-Kijin Seija/125
-Kishin Sagume/126
-Yuki/127
-Kikuri/128
-Sariel/129
-Shingyoku (Female)/130
-Yuugen Magan/131
-Fortune Teller/132
-Orange/133
-Reisen (Manga)/134
-Konngara/135
-Mimi-chan/136
-Gengetsu/137
-Mugetsu/138
-Yumeko/139
-Hisoutensoku/140
-Seiran/141
-Ushizaki Urumi/142
-Elly/143
-Teireida Mai/144
-Evil Eye Sigma/145
-Sara/146
-Tokiko/147
-Great Catfish/148
-Louise/149
-Lana Anaberal/150
-Kurumi/151
-Ellen/152
-Mizuhashi Parsee/153
-Sakata Nemuno/154
-Shingyoku (Male)/155
-Elis/156
-Mai/157
-Usami Sumireko/158
-Watatsuki no Toyohime/159
-Watatsuki no Yorihime/160
+1|Shameimaru Aya
+2|Alice Margatroid
+3|Ibaraki Kasen
+4|Shiki Eiki
+5|Toyosatomimi no Miko
+6|Kawashiro Nitori
+7|Hakurei Reimu
+8|Motoori Kosuzu
+9|Aki Minoriko
+10|Onozuka Komachi
+11|Ibuki Suika
+12|Hinanawi Tenshi
+13|Remilia Scarlet
+14|Nagae Iku
+15|Horikawa Raiko
+16|Hieda no Akyuu
+17|Inubashiri Momiji
+18|Tatara Kogasa
+19|Murasa Minamitsu
+20|Komeiji Satori
+21|Matara Okina
+22|Fujiwara no Mokou
+23|Tenkyuu Chimata
+24|Yorigami Joon
+25|Miyako Yoshika
+26|Kagiyama Hima
+27|Hong Meiling
+28|Sunny Milk
+29|Haniyasushin Keiki
+30|Nazrin
+31|Futatsuiwa Mamizou
+32|Komano Aunn
+33|Kamishirasawa Keine
+34|Moriya Suwako
+35|Patchouli Knowledge
+36|Saigyouji Yuyuko
+37|Merlin Prismriver
+38|Kasodani Kyouko
+39|Yakumo Yukari
+40|Okazaki Yumemi
+41|Sekibanki
+42|Letty Whiterock
+43|Yakumo Ran
+44|Niwatari Kutaka
+45|Yorigami Shion
+46|Mystia Lorelei
+47|Kumoi Ichirin
+48|Kurokoma Saki
+49|Morichika Rinnosuke
+50|Kochiya Sanae
+51|Luna Child
+52|Izayoi Sakuya
+53|Yamashiro Takane
+54|Lyrica Prismriver
+55|Kicchou Yachie
+56|Yoramaru Shou
+57|Goutokuji Mike
+58|Kirisame Marisa
+59|Usami Renko
+60|Toutestu Yuuma
+61|Kurodani Yamame
+62|Reisen Udongein Inaba
+63|Joutouguu Mayumi
+64|Iizunamaru Megumu
+65|Hata no Kokoro
+66|Kazami Yuuka
+67|Hoshiguma Yuugi
+68|Lily White
+69|Flandre Scarlet
+70|Tsukumo Benben
+71|Tsukumo Yatsuhashi
+72|Hijiri Byakuren
+73|Lunasa Prismriver
+74|Aki Shizuha
+75|Rumia
+76|Daiyousei
+77|Yasaka Kanako
+78|Hecatia Lapislazuli
+79|Star Sapphire
+80|Houjuu Nue
+81|Himekaidou Hatate
+82|Himemushi Momoyo
+83|Komeiji Koishi
+84|Inaba Tewi
+85|Wriggle Nightbug
+86|Mononobe no Futo
+87|Konpaku Youmu
+88|Asakura Rikako
+89|Kaenbyou Rin
+90|Soga no Tojiko
+91|Maribel Hearn
+92|Wakasagihime
+93|Junko
+94|Shinki
+95|Yatadera Narumi
+96|Sukuna Shinmyoumaru
+97|Tamatsukuri Misumaru
+98|Clownpiece
+99|Tagokoro Eirin
+100|Imaizumi Kagerou
+101|Okunoda Miyoi
+102|Kisume
+103|Kotohime
+104|Doremy Sweet
+105|Chen
+106|Koakuma
+107|Mima
+108|Reiuji Utsuho
+109|Eternity Larva
+110|Cirno
+111|Genji
+112|Medicine Melancholy
+113|Rika
+114|Meira
+115|Unzan
+116|Ruukoto
+117|Kitashirakawa Chiyura
+118|Kudamaki Tsukasa
+119|Houraisan Kaguya
+120|Nishida Satono
+121|Ebisu Eika
+122|Kaku Seiga
+123|Komakusa Sannyo
+124|Ringo
+125|Kijin Seija
+126|Kishin Sagume
+127|Yuki
+128|Kikuri
+129|Sariel
+130|Shingyoku (Female)
+131|Yuugen Magan
+132|Fortune Teller
+133|Orange
+134|Reisen (Manga)
+135|Konngara
+136|Mimi-chan
+137|Gengetsu
+138|Mugetsu
+139|Yumeko
+140|Hisoutensoku
+141|Seiran
+142|Ushizaki Urumi
+143|Elly
+144|Teireida Mai
+145|Evil Eye Sigma
+146|Sara
+147|Tokiko
+148|Great Catfish
+149|Louise
+150|Lana Anaberal
+151|Kurumi
+152|Ellen
+153|Mizuhashi Parsee
+154|Sakata Nemuno
+155|Shingyoku (Male)
+156|Elis
+157|Mai
+158|Usami Sumireko
+159|Watatsuki no Toyohime
+160|Watatsuki no Yorihime

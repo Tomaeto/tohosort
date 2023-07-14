@@ -2,6 +2,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <algorithm>
 #include <filesystem>
 namespace fs = std::filesystem;
 using namespace std;
@@ -14,11 +15,16 @@ struct charaEntry {
    int diff = 0;
 };
 
+//Functions for comparing two sorts
 void loadEntries(vector<charaEntry> &entries, int &avgChange);
 void getCharStats(vector<charaEntry> &entries);
 void getLargestFalls(vector<charaEntry> &entries, vector<charaEntry> &lowest);
 void getLargestRises(vector<charaEntry> &entries, vector<charaEntry> &highest);
 void getNoChange(vector<charaEntry> &entries);
+
+//Functions for making a sorter
+void makeSorter();
+bool comp(charaEntry &first, charaEntry &second);
 
 int main()
 {
@@ -32,29 +38,30 @@ int main()
    loadEntries(entries, avgChange);
    getLargestFalls(entries, lowest);
    getLargestRises(entries, highest);
+
    //Printing characters from highest and lowest vectors & average change in rank
    vector<charaEntry>::iterator it;
    cout << "The following character(s) fell " << abs(lowest.front().diff) << " ranks:" << endl;
-   for (it = lowest.begin(); it != lowest.end(); it++) {
+   for (it = lowest.begin(); it != lowest.end(); it++)
       cout << it->name << endl;
-   }
+   
    cout << endl;
    cout << "The following character(s) rose " << highest.front().diff << " ranks:" << endl;
-   for (it = highest.begin(); it != highest.end(); it++) {
+
+   for (it = highest.begin(); it != highest.end(); it++) 
       cout << it->name << endl;
-   }
+   
    cout << endl;
    getNoChange(entries);
    cout << "The average rank change between the two sorters is " << avgChange <<  " ranks." << endl;
 
-   bool getChar = true;
+   bool getChar;
    string in;
    while (getChar) {
       getCharStats(entries);
       cout << "Do you want to check another character? (Y/N) ";
       cin >> in;
-      if (in == "N")
-      getChar = false;
+      getChar = (in == "N");
    }
    
 }
@@ -63,16 +70,16 @@ int main()
 //Also computes average change in rank across all entries
 void loadEntries(vector<charaEntry> &entries, int &avgChange) {
    //basic charaEntry for loading data and inserting into vector
-      struct charaEntry entry;
+   struct charaEntry entry;
 
    //file streams for sorter files
    ifstream firstFile;
    ifstream secondFile;
    string path = "./sorters/";
    cout << "Sorter files in directory: " << endl;
-   for (const auto &entry : fs::directory_iterator(path)) {
+   for (const auto &entry : fs::directory_iterator(path)) 
       cout << entry << endl;
-   }
+   
    //Getting two files to compare
    string firstFilename;
    string secondFilename;
@@ -91,8 +98,8 @@ void loadEntries(vector<charaEntry> &entries, int &avgChange) {
    //Staring w/ second file because it may have more entries
    //Parsing chara name and second rank from file and inserting entry into vector
    while (getline(secondFile, secondLine)) {
-      entry.name = secondLine.substr(0, secondLine.find('/'));
-      entry.secondRank = stoi(secondLine.substr(secondLine.find('/') + 1, secondLine.length()));
+      entry.name = secondLine.substr(secondLine.find('|') + 1, secondLine.size() -secondLine.find('|'));
+      entry.secondRank = stoi(secondLine.substr(0, secondLine.find('|')));
       entries.push_back(entry);
    }
    secondFile.close();
@@ -103,8 +110,8 @@ void loadEntries(vector<charaEntry> &entries, int &avgChange) {
    while (getline(firstFile, firstLine)) {
       for (vector<charaEntry>::iterator it = entries.begin(); it != entries.end(); it++) {
 
-         if (it -> name == firstLine.substr(0, firstLine.find('/'))) {
-            it -> firstRank = stoi(firstLine.substr(firstLine.find('/') + 1, firstLine.length()));
+         if (it -> name == firstLine.substr(firstLine.find('|') + 1, firstLine.size() - firstLine.find('|'))) {
+            it -> firstRank = stoi(firstLine.substr(0, firstLine.find('|')));
             it -> diff = it->firstRank - it->secondRank;
             avgChange += abs(it -> diff);
          }
@@ -136,7 +143,7 @@ void getCharStats(vector<charaEntry> &entries) {
             cout << character + " went up " + to_string(it->diff) + " ranks" << endl;
          }
          else
-            cout << character + "did not change rank";
+            cout << character + " did not change rank ";
          break;
       }
    }
@@ -176,6 +183,7 @@ void getLargestRises(vector<charaEntry> &entries, vector<charaEntry> &highest) {
    }
 }
 
+//Function for getting characters with no change in rank between the two sorts
 void getNoChange(vector<charaEntry> &entries) {
    cout << "The following characters did not change rank:" << endl;
    for (vector<charaEntry>::iterator it = entries.begin(); it != entries.end(); it++) {
